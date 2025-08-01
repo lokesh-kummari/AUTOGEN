@@ -4,3 +4,4 @@ ipykernel
 dotenv
 autogen-core
 pydantic
+autogenstudio
